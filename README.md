@@ -11,3 +11,7 @@ http://greps-s3-demo-bucket-2btraqcop7e6w29bvle4qnhsami7k0iokerx9uai.s3-website-
 
 Updated index.html with customer image/text accessible via CloudFront Distribution:
 https://d1nvtuv5rl3xcn.cloudfront.net/post.html
+
+Attrributions:
+https://wallpapersafari.com/w/7Bc2Rb for their image https://cdn.wallpapersafari.com/23/69/7Bc2Rb.jpg
+
