@@ -13,5 +13,5 @@ Updated index.html with customer image/text accessible via CloudFront Distributi
 https://d1nvtuv5rl3xcn.cloudfront.net/post.html
 
 Attrributions:
-https://wallpapersafari.com/w/7Bc2Rb for their image https://cdn.wallpapersafari.com/23/69/7Bc2Rb.jpg
+Thanks to wallpapersafari.com for the use of their image https://cdn.wallpapersafari.com/23/69/7Bc2Rb.jpg
 
