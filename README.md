@@ -14,4 +14,5 @@ https://d1nvtuv5rl3xcn.cloudfront.net/post.html
 
 Attributions:
 Thanks to wallpapersafari.com for the use of their image https://cdn.wallpapersafari.com/23/69/7Bc2Rb.jpg
+Thanks to Udacicity for use of their starter-website.zip file.
 
